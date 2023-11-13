@@ -3,7 +3,7 @@ import random
 
 def function_A(min, max):
     """
-    Random integer.
+    Random integer..
     """
     return random.randint(min, max)
     #This function generate a random number between the given minimum and maximum values
