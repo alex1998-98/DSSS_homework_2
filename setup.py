@@ -7,6 +7,5 @@ setup(
     install_requires=[
         # Add any dependencies here, if applicable
         # For example, if you use 'random' module in your program, you don't need to add it here.
-
-    ],
+],
 )
